@@ -541,3 +541,4 @@
 541,REDORB,Red Orb,Red Orbs,1,1000,"A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection to the Hoenn Region.",0,0,0,
 542,BLUEORB,Blue Orb,Blue Orbs,1,1000,"A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection to the Hoenn Region.",0,0,0,
 543,PRISONBOTTLE,Prison Bottle,Prison Bottles,8,0,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",5,0,6,
+544,MEGARING,Mega Ring,Mega Rings,8,0,"A ring that uses the energy of mega stones to mega evolve pokemon.",0,0,6,
