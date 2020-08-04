@@ -1,88 +1,118 @@
 
 ******************************************
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
 
 ***Round 1***
 [AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
-[AI] Will use Leech Life
+[AI] Will use Sand Attack
 [Priority] The wild Ninjask (1), Meowth (0)
-The wild Ninjask used Leech Life
-Move's damage calculated to be 11
-[HP change] Meowth lost 11 HP (45=>34)
-Move did 1 hit(s), total damage=11
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
+The wild Ninjask used Sand Attack
+[Stat change] Meowth's accuracy fell by 1 stage(s) (was 0, now -1)
+Move did 1 hit(s), total damage=0
 Meowth used Scratch
-Move's damage calculated to be 11
-[HP change] The wild Ninjask lost 11 HP (46=>35)
-Move did 1 hit(s), total damage=11
-[Lingering effect triggered] The wild Ninjask was gilded (3 turns)
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
+Move's damage calculated to be 12
+[HP change] The wild Ninjask lost 12 HP (49=>37)
+Move did 1 hit(s), total damage=12
+[Lingering effect triggered] The wild Ninjask was gilded (4 turns)
 [End of round]
 [Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 0, now 1)
 [Ability triggered] The wild Ninjask's Speed Boost
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
 
 ***Round 2***
 [AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
-[AI] Will use Fury Swipes
-[Priority] The wild Ninjask (1), Meowth (0)
-The wild Ninjask used Fury Swipes
-[Status] The wild Ninjask remained gilded (count: 2)
-Move's damage calculated to be 7
-[HP change] Meowth lost 7 HP (34=>27)
-Move's damage calculated to be 6
-[HP change] Meowth lost 6 HP (27=>21)
-Move did 2 hit(s), total damage=13
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
-Meowth used Scratch
-Move's damage calculated to be 12
-[HP change] The wild Ninjask lost 12 HP (35=>23)
-Move did 1 hit(s), total damage=12
-[Lingering effect triggered] The wild Ninjask was gilded (5 turns)
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
+[AI] Will use Sand Attack
+[Priority] Meowth (0), the wild Ninjask (1)
+Meowth used Growl
+[Stat change] The wild Ninjask's Attack fell by 1 stage(s) (was 0, now -1)
+Move did 1 hit(s), total damage=0
+The wild Ninjask used Sand Attack
+[Status] The wild Ninjask remained gilded (count: 3)
+[Stat change] Meowth's accuracy fell by 1 stage(s) (was -1, now -2)
+Move did 1 hit(s), total damage=0
 [End of round]
 [Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 1, now 2)
 [Ability triggered] The wild Ninjask's Speed Boost
-[End of effect] Neutralizing Gas ended
-[End of effect] Neutralizing Gas ended
 
 ***Round 3***
-
-******************************************
-
-***Round 1***
-[AI] The wild Hoppip's moves: Tail Whip=100, Tackle=100, Poison Powder=100, Stun Spore=100
-[AI] Will use Poison Powder
-[Priority] Meowth (0), the wild Hoppip (1)
+[AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
+[AI] Will use Fury Swipes
+[Priority] Meowth (0), the wild Ninjask (1)
 Meowth used Scratch
+[Move failed] Failed pbAccuracyCheck (function code 00) or target is semi-invulnerable
+The wild Ninjask used Fury Swipes
+[Status] The wild Ninjask remained gilded (count: 2)
+[Move failed] Failed pbAccuracyCheck (function code C0) or target is semi-invulnerable
+[End of round]
+[Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 2, now 3)
+[Ability triggered] The wild Ninjask's Speed Boost
+
+***Round 4***
+[AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
+[AI] Will use Fury Swipes
+[Priority] Meowth (0), the wild Ninjask (1)
+Meowth used Scratch
+Move's damage calculated to be 12
+[HP change] The wild Ninjask lost 12 HP (37=>25)
+Move did 1 hit(s), total damage=12
+[Lingering effect triggered] The wild Ninjask was gilded (5 turns)
+The wild Ninjask used Fury Swipes
+[Status] The wild Ninjask remained gilded (count: 4)
+Move's damage calculated to be 6
+[HP change] Meowth lost 6 HP (45=>39)
+Move's damage calculated to be 5
+[HP change] Meowth lost 5 HP (39=>34)
+Move did 2 hit(s), total damage=11
+[End of round]
+[Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 3, now 4)
+[Ability triggered] The wild Ninjask's Speed Boost
+
+***Round 5***
+[AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
+[AI] Will use Fury Swipes
+[Priority] Meowth (0), the wild Ninjask (1)
+Meowth used Scratch
+[Move failed] Failed pbAccuracyCheck (function code 00) or target is semi-invulnerable
+The wild Ninjask used Fury Swipes
+[Status] The wild Ninjask remained gilded (count: 3)
+Move's damage calculated to be 5
+[HP change] Meowth lost 5 HP (34=>29)
 Move's damage calculated to be 14
-[HP change] The wild Hoppip lost 14 HP (35=>21)
-Move did 1 hit(s), total damage=14
-[Lingering effect triggered] The wild Hoppip was gilded (3 turns)
-The wild Hoppip used Poison Powder
-[Status] The wild Hoppip remained gilded (count: 2)
-[Move failed] Failed pbAccuracyCheck (function code 05) or target is semi-invulnerable
+[HP change] Meowth lost 14 HP (29=>15)
+Move did 2 hit(s), total damage=19
+[End of round]
+[Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 4, now 5)
+[Ability triggered] The wild Ninjask's Speed Boost
+
+***Round 6***
+[AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
+[AI] Will use Leech Life
+[Priority] Meowth (0), the wild Ninjask (1)
+Meowth used Scratch
+Move's damage calculated to be 12
+[HP change] The wild Ninjask lost 12 HP (25=>13)
+Move did 1 hit(s), total damage=12
+[Lingering effect triggered] The wild Ninjask was gilded (4 turns)
+The wild Ninjask used Leech Life
+[Status] The wild Ninjask remained gilded (count: 3)
+Move's damage calculated to be 8
+[HP change] Meowth lost 8 HP (15=>7)
+[HP change] The wild Ninjask gained 4 HP (13=>17)
+Move did 1 hit(s), total damage=8
+[End of round]
+[Stat change] The wild Ninjask's Speed rose by 1 stage(s) (was 5, now 6)
+[Ability triggered] The wild Ninjask's Speed Boost
+
+***Round 7***
+[AI] The wild Ninjask's moves: Harden=100, Leech Life=100, Sand Attack=100, Fury Swipes=100
+[AI] Will use Harden
+[Priority] Meowth (0), the wild Ninjask (1)
+Meowth used Scratch
+Move's damage calculated to be 11
+[HP change] The wild Ninjask lost 11 HP (17=>6)
+Move did 1 hit(s), total damage=11
+[Lingering effect triggered] The wild Ninjask was gilded (5 turns)
+The wild Ninjask used Harden
+[Status] The wild Ninjask remained gilded (count: 4)
+[Stat change] The wild Ninjask's Defense rose by 1 stage(s) (was 0, now 1)
 [End of round]
 
-***Round 2***
-[AI] The wild Hoppip's moves: Tail Whip=100, Tackle=100, Poison Powder=100, Stun Spore=100
-[AI] Will use Poison Powder
-[Priority] Meowth (0), the wild Hoppip (1)
-Meowth used Scratch
-Move's damage calculated to be 29
-[HP change] The wild Hoppip lost 21 HP (21=>0)
-Move did 1 hit(s), total damage=21
-[Pokémon fainted] The wild Hoppip
-[Lingering effect triggered] The wild Hoppip was gilded (4 turns)
-
-***Player won***
+***Round 8***
