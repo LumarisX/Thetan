@@ -626,4 +626,4 @@
 626,EVILBEAM,Evil Beam,000,110,DARK,Special,80,5,0,00,0,bef,"The user shoots a dark beam towards the target."
 627,PSYCHOSLAM,Psycho Slam,0FB,120,PSYCHIC,Physical,100,5,0,00,0,bef,"The user charges with psionic force but suffers serious injuries."
 628,DRACOBALL,Draco Ball,0D3,30,Dragon,Physical,90,20,0,00,0,abef,"The user curls up in a spiny ball."
-629,PETRIFY,Petrify,061,0,ROCK,Status,100,20,0,00,0,bce,"The user turns the target to stone."
+629,PETRIFY,Petrify,15A,0,ROCK,Status,100,20,0,00,0,bce,"The user turns the target to stone."
