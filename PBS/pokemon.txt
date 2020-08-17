@@ -3756,7 +3756,7 @@ Kind=Evolution
 Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 BattlerEnemyY=14
 BattlerPlayerY=12
-Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,GLACEON,Item,ICESTONE,ESPEON,HappinessDay,,ESPEON,Item,SUNSTONE,UMBREON,HappinessNight,,UMBREON,Item,MOONSTONE,SYLVEON,HappinessMoveType,FAIRY,SYLVEON,Item,SHINYSTONE
 [134]
 Name=Vaporeon
 InternalName=VAPOREON

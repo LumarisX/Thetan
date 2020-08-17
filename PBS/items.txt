@@ -594,3 +594,4 @@
 594,MARANGABERRY,Maranga Berry,Maranga Berries,5,20,"If held by a Pokémon, this Berry will increase the Pokémon's Special Defense stat when hit by a special attack",0,0,5,
 595,SNOWBALL,Snowball,Snowballs,1,200,"An item to be held by a Pokémon. It boosts Attack if hit with a Ice-type attack. It can only be used once.",0,0,0,
 596,MEGARING,Mega Ring,Mega Rings,8,0,"A mega item.",0,0,0,
+597,BRIGHTCRYSTAL,Bright Crystal,Bright Crystals,1,1000,"You can feel a strong energy flowing out of it.",0,0,0,
