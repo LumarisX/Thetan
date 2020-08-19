@@ -596,3 +596,4 @@
 596,MEGARING,Mega Ring,Mega Rings,8,0,"A mega item.",0,0,0,
 597,BRIGHTCRYSTAL,Bright Crystal,Bright Crystals,1,1000,"You can feel a strong energy flowing out of it.",0,0,0,
 598,ICESTONE,Ice Stone,Ice Stones,1,2500,"A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",1,0,7,
+599,GLASSCANNON,Glass Cannon,Glass Cannons,1,1000,An item to be held by a Pokémon. This offensive item trades defenses for attack and prevents the use of status moves.,0,0,0
