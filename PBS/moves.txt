@@ -752,3 +752,13 @@
 731,COACHING,Coaching,189,0,FIGHTING,Status,0,10,0,100,0,,"The user properly coaches its ally Pokémon, boosting their Attack and Defense stats."
 733,DUALWINGBEAT,Dual Wingbeat,0BD,40,FLYING,Physical,90,10,0,00,0,abef,"The user slams the target with its wings. The target is hit twice in a row."
 734,JUNGLEHEALING,Jungle Healing,186,0,GRASS,Status,0,10,0,10,0,,"The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle."
+
+#-------------------------------
+735,ICYSTARE,Icy Stare,00C,0,ICE,Status,75,20,0,00,0,bce,"The user freezes the target with a cold glance."
+736,SOLARFLARE,Solar Flare,159,120,FIRE,Special,95,10,0,08,0,bef,"A two-turn attack. The user begins to glow, then blasts a wave of fire across the field on the second turn."
+737,ENERGYROCK,Energy Rock,046,90,ROCK,Special,100,10,10,00,0,bef,"A rock filled with bright energy is thrown at the target."
+738,THUNDERSLASH,Thunder Slash,000,40,ELECTRIC,Physical,100,20,0,00,1,bef,"The user hurls towards and attacks with a jab of electricity."
+739,EVILBEAM,Evil Beam,000,110,DARK,Special,80,5,0,00,0,bef,"The user shoots a dark beam towards the target."
+740,PSYCHOSLAM,Psycho Slam,0FB,120,PSYCHIC,Physical,100,5,0,00,0,bef,"The user charges with psionic force but suffers serious injuries."
+741,DRACOBALL,Draco Ball,0D3,30,DRAGON,Physical,90,20,0,00,0,abef,"The user curls up in a spiny ball."
+742,PETRIFY,Petrify,15A,0,ROCK,Status,100,20,0,00,0,bce,"The user turns the target to stone."

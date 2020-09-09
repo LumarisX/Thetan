@@ -761,3 +761,7 @@
 745,TR97,TR97,TR97s,4,0,"The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",3,0,0,PSYCHICFANGS,
 746,TR98,TR98,TR98s,4,0,"The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.",3,0,0,LIQUIDATION,
 747,TR99,TR99,TR99s,4,0,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it inflicts.",3,0,0,BODYPRESS,
+#-------------------------------
+748,GLASSCANNON,Glass Cannon,Glass Cannons,1,1000,An item to be held by a Pokémon. This offensive item trades defenses for attack and prevents the use of status moves.,0,0,0
+749,BRIGHTCRYSTAL,Bright Crystal,Bright Crystals,1,1000,"You can feel a strong energy flowing out of it.",0,0,0,
+
