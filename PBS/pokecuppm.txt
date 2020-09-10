@@ -1,3 +1,5 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
 KRICKETOT;LUCKYEGG;IMPISH;HP,ATK,DEF,SD;GROWL,BIDE,,
 CATERPIE;MAGOBERRY;CAREFUL;HP,SD;TACKLE,STRINGSHOT,,
 WURMPLE;SITRUSBERRY;GENTLE;ATK,DEF;TACKLE,STRINGSHOT,POISONSTING,
