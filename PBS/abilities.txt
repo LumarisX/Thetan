@@ -267,3 +267,5 @@
 265,BEGUILE,Beguile,"Lowers the foe's Special Attack stat."
 266,MIDASTOUCH,Midas Touch,"Turns opponent into valuable gold on contact."
 267,FRUGIVORE,Frugivore,"The Pokémon can only hold berries."
+268,VAPORIZE,Vaporize,"Fire moves do more damage to Water-types."
+269,VAMPIRIC,Vampiric,"Steals health on damage."
