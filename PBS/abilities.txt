@@ -264,6 +264,6 @@
 262,HYDRA,Hydra,"Boosts the Attack stat when hit by an attack."
 263,MOLT,Molt,"Restores health and cures conditions upon switching out."
 264,FOULGAS,Foul Gas,"Nullifies the Abilities of all Pokémon on the field."
-265,ICESCALES,Ice Scales,"Damage from Special attacks is halved."
+265,BEGUILE,Beguile,"Lowers the foe's Special Attack stat."
 266,MIDASTOUCH,Midas Touch,"Turns opponent into valuable gold on contact."
 267,FRUGIVORE,Frugivore,"The Pokémon can only hold berries."
