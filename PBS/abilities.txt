@@ -273,3 +273,4 @@
 271,MIDASTOUCH,Midas Touch,"Gilds target on contact."
 272,MOMENTUM,Momentum,"Powers up multi-strike moves."
 273,SCAMARTIST,Scam Artist,"Steals all stat changes of the Pokemon it hits."
+274,PROMETHEAN,Promethean,"Powers up all types of moves."
