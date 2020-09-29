@@ -766,3 +766,4 @@
 744,FLYTRAP,Fly Trap,403,30,GRASS,Special,100,10,0,NearOther,0,bce,"A seed is planted on the target. It steals some HP from the target every turn."
 745,HYDRASTRIKE,Hydra Strike,0BF,20,WATER,Physical,90,10,0,NearOther,0,abef,"A consecutive three-strike attack that becomes more powerful with each successive hit."
 746,HOTSHOT,Hot Shot,00A,80,FIRE,Special,100,15,30,NearOther,0,befg,"The user shoots steaming lava at its target. It may also leave the target with a burn."
+747,PIGIRON,Pig Iron,405,0,STEEL,Status,0,15,0,User,0,d,"The user reinforces its body with heavy pig iron, sharply raising its Defense stat."

@@ -276,3 +276,4 @@
 274,PROMETHEAN,Promethean,"Powers up all types of moves."
 275,COMBUSTION,Combustion,"Lowers defenses but raises attacks when hit with a Fire-type move."
 276,VIRTUOSO,Virtuoso,"Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves."
+277,TEMPERED,Tempered,"Reduces damage from super-effective attacks."
