@@ -762,6 +762,8 @@
 746,TR98,TR98,TR98s,4,0,"The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.",3,0,0,LIQUIDATION,
 747,TR99,TR99,TR99s,4,0,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it inflicts.",3,0,0,BODYPRESS,
 #-------------------------------
-748,GLASSCANNON,Glass Cannon,Glass Cannons,1,1000,An item to be held by a Pokémon. This offensive item trades defenses for attack and prevents the use of status moves.,0,0,0
-749,BRIGHTCRYSTAL,Bright Crystal,Bright Crystals,1,1000,"You can feel a strong energy flowing out of it.",0,0,0,
-750,MEGABAND,Mega Band,Mega Bands,8,0,"An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.",0,0,6,
+900,GLASSCANNON,Glass Cannon,Glass Cannons,1,1000,An item to be held by a Pokémon. This offensive item trades defenses for attack and prevents the use of status moves.,0,0,0
+901,BRIGHTCRYSTAL,Bright Crystal,Bright Crystals,1,1000,"You can feel a strong energy flowing out of it.",0,0,0,
+902,MEGABAND,Mega Band,Mega Bands,8,0,"An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.",0,0,6,
+903,DRAGOBERRY,Drago Berry,Drago Berries,5,20,"Reduces damage from a supereffective attack against the holding Pokémon.",0,0,5,
+904,MENCHBERRY,Mench Berry,Mench Berries,5,20,"Protects the holding pokemon from a critical hit.",0,0,5,
